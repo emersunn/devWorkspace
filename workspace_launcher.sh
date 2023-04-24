@@ -12,6 +12,7 @@ browser_tabs=(
     "https://github.com"
     "https://stackoverflow.com"
     "https://developer.mozilla.org"
+    "https://chat.openai.com"
 )
 
 # Function to check if an application is running
